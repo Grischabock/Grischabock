@@ -3,7 +3,7 @@
 Mein Name ist Sandro aka Grischabock, geboren 1986 in Chur [CH]. Ich betreue einige eigene wie auch externe Projekte und Aufgaben sowie Systeme und Integrationen. 
 
 ### Kontakt
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=TestingMeme&logo=discord&style=flat-square)](https://discord.gg/eBPnGDq)
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=GrischaMedia&logo=discord&style=flat-square)](https://discord.gg/eBPnGDq)
 
 ### Projekte
 - **Grischabock.ch** [https://grischabock.ch]
