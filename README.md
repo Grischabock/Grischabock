@@ -1,6 +1,6 @@
 ### Grischabock on GitHUb 👋
 
-Mein Name ist Sandro aka Grischabock, geboren 1986 in Chur [CH]. Ich betreue einige eigene wie auch externe Projekte und Aufgaben sowie Systeme und Integrationen. 
+Mein Name ist Sandro aka Grischabock, geboren 1986 in Chur [CH]. Ich betreue einige eigene wie auch externe Projekte und Aufgaben sowie Systeme und Integrationen. Zudem biete ich Support und Schulungen für Apple Produkte. Auf meiner Firmenwebseite im Shop kann man diverse Digitale wie auch Physische Produkte kaufen.
 
 ![](https://www.woltlab.com/attachment/153703-grischamedia-banner-500x62-png/)
 
@@ -23,6 +23,17 @@ Mein Name ist Sandro aka Grischabock, geboren 1986 in Chur [CH]. Ich betreue ein
 - **AlphaCode.dev** [https://alphacode.dev]
 - **Heimatküche.com** [https://heimatküche.com]
 - **GrischaNetwork.com** [https://grischanetwork.com]
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Aufgaben
+
+- NinoxDB Partner
+- Woltlab Pluginstore Author
+- Grafiken
+- Webseiten
+- Hosting
+- Support
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
