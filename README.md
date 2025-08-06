@@ -1,51 +1,79 @@
-### Grischabock on GitHUb 👋
+## ✨ Grischabock – Digital Creator, Tüftler & Unterstützer aus Graubünden
 
-Mein Name ist Sandro aka Grischabock, geboren 1986 in Chur [CH]. Ich betreue einige eigene wie auch externe Projekte und Aufgaben sowie Systeme und Integrationen. Zudem biete ich Support und Schulungen für Apple Produkte. 
+👋 Hey! Ich bin **Sandro**, besser bekannt als **Grischabock**.  
+Geboren 1986 in Chur 🇨🇭, betreue ich eigene sowie externe Projekte, entwickle Tools, betreibe Webplattformen und biete Support & Schulungen rund um Apple-Produkte.  
+Mein Ziel: **Einfachheit durch Technik.**
 
-![](https://www.woltlab.com/attachment/153703-grischamedia-banner-500x62-png/)
+![Banner](https://www.woltlab.com/attachment/153703-grischamedia-banner-500x62-png/)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-### Kontakt
-[![Support Server](https://img.shields.io/discord/668561281229389824.svg?color=7289da&label=GrischaMedia&logo=discord&style=flat-square)](https://discord.gg/eBPnGDq) <a href="mailto:info@grischamedia.ch" title="Email"><img src="https://img.shields.io/badge/email-green?logo=mail.ru&style=flat-square&logoColor=white"></a>
+## 🚀 Projekte & Plattformen
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Name               | Link                                    |
+|--------------------|-----------------------------------------|
+| 🌐 Grischabock.ch   | [grischabock.ch](https://grischabock.ch)       |
+| 🎨 GrischaMedia.ch | [grischamedia.ch](https://grischamedia.ch)     |
+| 🏔️ MountainBock.ch  | [mountainbock.ch](https://mountainbock.ch)     |
+| 💬 DampferForum.eu  | [dampferforum.eu](https://dampferforum.eu)     |
+| 🇨🇭 Geyer.swiss     | [geyer.swiss](https://geyer.swiss)             |
+| 🎙️ Podcast         | [podcast.grischabock.ch](https://podcast.grischabock.ch) |
 
-### Social
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Grischabock)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Grischabock/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Grischabock)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Grischabock)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://grischamedia.ch)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://twitch/tv/grischabock)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apple.svg' alt='apple' height='40'>](https://grischabock.ch)  
+---
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🛠️ Aufgabenbereiche
 
-### Projekte
-- **Grischabock.ch** [https://grischabock.ch]
-- **GrischaMedia.ch** [https://grischamedia.ch]
-- **Pixel-Friends.com** [https://pixel-friends.com]
-- **AlphaCode.dev** [https://alphacode.dev]
-- **Heimatküche.com** [https://heimatküche.com]
-- **GrischaNetwork.com** [https://grischanetwork.com]
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Aufgaben
-
-- NinoxDB Partner
 - Woltlab Pluginstore Author
-- Grafiken
-- Webseiten
-- Hosting
-- Support
+- Hosting & Systemadministration
+- Webseiten & Automatisierungen
+- UI/UX Design & Grafik
+- Apple-Support & Schulungen
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Grischabock&show_icons=true)
+## 📬 Kontakt
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Discord](https://img.shields.io/discord/668561281229389824?color=7289da&label=GrischaMedia&logo=discord&style=flat-square)](https://discord.gg/eBPnGDq)  
+📧 [info@grischamedia.ch](mailto:info@grischamedia.ch)
 
-### Development
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jira.svg' alt='jira' height='40'>](https://jira.grischamedia.ch)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitbucket.svg' alt='bitbucket' height='40'>](https://git.grischamedia.ch)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bamboo.svg' alt='bamboo' height='40'>](https://build.grischamedia.ch)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Grischabock/)  
+---
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🌐 Social Media
 
-### Software
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/affinitydesigner.svg' alt='affinitydesigner' height='40'>](https://grischamedia.ch)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/affinityphoto.svg' alt='affinityphoto' height='40'>](https://grischamedia.ch)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/affinitypublisher.svg' alt='affinitypublisher' height='40'>](https://grischamedia.ch)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](https://grischamedia.ch)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jetbrains.svg' alt='jetbrains' height='40'>](https://grischamedia.ch)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/Grischabock)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/Grischabock/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/Grischabock)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/Grischabock)
+[![Website](https://img.shields.io/badge/Website-1F456A?logo=icloud&style=for-the-badge&logoColor=white)](https://grischamedia.ch)
+[![Twitch](https://img.shields.io/badge/Twitch-6441A5?logo=twitch&style=for-the-badge)](https://twitch.tv/Grischabock)
 
+---
+
+## 💻 Dev Tools & Infrastruktur
+
+| Tool    | Link                             |
+|---------|----------------------------------|
+| 🧩 Jira       | [jira.grischamedia.ch](https://jira.grischamedia.ch)         |
+| 🧑‍💻 Git       | [git.grischamedia.ch](https://git.grischamedia.ch)           |
+| 🚀 Bamboo     | [build.grischamedia.ch](https://build.grischamedia.ch)       |
+| 🌐 GitHub     | [github.com/Grischabock](https://github.com/Grischabock)     |
+
+---
+
+## 🎨 Kreative Software
+
+| Tools |
+|-------|
+| Affinity Designer · Photo · Publisher |
+| Adobe Photoshop |
+| JetBrains IDEs (PhpStorm, PyCharm, etc.) |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grischabock&show_icons=true&theme=default)
+
+---
+
+> 💬 _„Technik ist kein Selbstzweck – sie soll das Leben vereinfachen.“_
